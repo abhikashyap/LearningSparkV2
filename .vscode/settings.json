@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "/Users/abhikashyap10/.pyspark-env/bin/python",
+  "jupyter.kernels.kernel.specs": {
+    "pyspark-env": "/Users/abhikashyap10/Library/Jupyter/kernels/pyspark-env"
+  },
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.python"
+  }
+}
